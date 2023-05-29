@@ -4,13 +4,13 @@ layout: single
 author_profile: true
 ---
 
-### Research interests
+#### Research interests
 
 - 3D printing
 - Liquid crystal elastomer actuator
 - Wearable/flexible electronics
 
-### Area of Expertise
+#### Area of Expertise
 
 _Experimental Research_
 
@@ -26,7 +26,7 @@ _Simulation/Computation_
 - Machine Learning, Signal processing and filtering, Digital control.
 - Understand Adobe Premiere, Abaqus, Simulink, LabVIEW (Certificated LabVIEW Associate Developer, 11/2019)
 
-## Publications
+#### Publications
 
 - [J1]. **Zefang Li**, Gina Olson, Dinesh K. Patel, Lining Yao, Carmel Majidi, "Electrically Controlled Liquid Crystal Elastomer Surfaces for Dynamic Wrinkling," _Advanced Intelligent Systems_, [https://onlinelibrary.wiley.com/doi/10.1002/aisy.202200402](https://onlinelibrary.wiley.com/doi/10.1002/aisy.202200402).
 
