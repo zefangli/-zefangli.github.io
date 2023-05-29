@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 ---
 
-## About me
+# About me
 
 I am an incoming PhD student at Johns Hopkins University Department of Civil and Systems Engineering under the supervision of [Dr. Jochen Mueller](https://scholar.google.com/citations?user=yCnfRi4AAAAJ&hl=en&oi=ao).
 
@@ -12,12 +12,12 @@ I obtained master's degree in Mechanical Engineering from Carnegie Mellon Univer
 
 I obtained bachelor's degree from [University of Michigan - Shanghai Jiao Tong University Joint Institute](https://www.ji.sjtu.edu.cn/) (UM-SJTU JI) of [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), with major in Mechanical Engineering and minor in Computer Science. My undergraduate studies were on elastic mechanics, structural health monitoring, and robotics.
 
-## Research interests
+# Research interests
 
 - 3D printing
 - Liquid crystal elastomer actuator
 - Wearable/flexible electronics
 
-## Contact
+# Contact
 
 Feel free to contact me at [zli299 at jh dot edu](mailto:zli299@jh.edu)
