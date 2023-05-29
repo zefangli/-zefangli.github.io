@@ -14,6 +14,10 @@ _Course Assistant_ for:
 
 - Fall 2022, 24-787 Machine Learning and Artificial Intelligence for Engineers
 
+_Volunteer Teacher_ for:
+
+- Fall 2022, Gelfand Outreach Fall Saturday Series, "Engineering Materials for Soft Robotics"
+
 _Grader_ for:
 
 - Spring 2023, 24-703 Numerical Methods
