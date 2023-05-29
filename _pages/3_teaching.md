@@ -8,7 +8,7 @@ author_profile: true
 #### Teaching
 
 
-### Carnegie Mellon University
+#### Carnegie Mellon University, Pittsburgh, PA
 
 _Course Assistant_ for:
 
@@ -18,7 +18,7 @@ _Grader_ for:
 
 - Spring 2023, 24-703 Numerical Methods
 
-### Shanghai Jiao Tong University
+#### Shanghai Jiao Tong University, Shanghai, China
 
 _Teaching Assistant_ for:
 
@@ -26,7 +26,7 @@ _Teaching Assistant_ for:
 - Spring 2020, VM240: Introduction to Dynamics and Vibrations
 - Spring 2019, VX251: Branding and Brand Management
 
-### Haikou Central Elementary School, Eryuan, China, 12/2017 - 01/2018
+#### Haikou Central Elementary School, Eryuan, China, 12/2017 - 01/2018
 
 _Volunteer Teacher_
 
