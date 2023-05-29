@@ -17,3 +17,7 @@ I obtained bachelor's degree from [University of Michigan - Shanghai Jiao Tong U
 - 3D printing
 - Liquid crystal elastomer actuator
 - Wearable/flexible electronics
+
+### Contact
+
+Feel free to contact me at [zli299 at jh dot edu](mailto:zli299@jh.edu)
