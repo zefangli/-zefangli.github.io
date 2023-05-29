@@ -14,17 +14,17 @@ _Course Assistant_ for:
 
 - Fall 2022, 24-787 Machine Learning and Artificial Intelligence for Engineers
 
-Hold recitations and weekly office hours. Set up quiz questions. Grade homework and exams.
+_Grader_ for:
 
-### [UM-SJTU JI](https://www.ji.sjtu.edu.cn/academics/academic-centers/center-for-learning-and-teaching/) (CLT), UM-SJTU JI, 02/2019 - 08/2020
+- Spring 2023, 24-703 Numerical Methods
 
-_Teaching Assistant_ for the following courses:
+### Shanghai Jiao Tong University
+
+_Teaching Assistant_ for:
 
 - Summer 2020, VM360: Modeling, Analysis and Control of Dynamic Systems
 - Spring 2020, VM240: Introduction to Dynamics and Vibrations
 - Spring 2019, VX251: Branding and Brand Management
-
-Held weekly recitation classes and office hours, graded homework and exams, monitored exams.
 
 ### Haikou Central Elementary School, Eryuan, China, 12/2017 - 01/2018
 
