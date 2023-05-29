@@ -1,11 +1,11 @@
 ---
-title: ""
+title: "Research"
 permalink: /research/
 layout: single
 author_profile: true
 ---
 
-#### Research interests
+#### Current Interests
 
 - 3D printing
 - Liquid crystal elastomer actuator
