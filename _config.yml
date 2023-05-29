@@ -19,7 +19,7 @@ email: "zli299@jh.edu"
 description: "personal website for Zefang Li"
 twitter_username: "zefang_li"
 github_username: "zefangli"
-minimal_mistakes_skin: "contrast"
+minimal_mistakes_skin: default
 search: true
 
 # Build settings
