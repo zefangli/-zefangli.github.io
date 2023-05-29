@@ -28,8 +28,8 @@ _Teaching Assistant_ for:
 - Spring 2020, VM240: Introduction to Dynamics and Vibrations
 - Spring 2019, VX251: Branding and Brand Management
 
-#### Haikou Central Elementary School, Eryuan, China, 12/2017 - 01/2018
+#### Haikou Central Elementary School, Eryuan, China
 
 _Volunteer Teacher_
 
-- Designed interactive teaching plans and taught local pupils of grade 2 to 6 English and math.
+- Winter 2017, Designed interactive teaching plans and taught local pupils of grade 2 to 6 English and math.
