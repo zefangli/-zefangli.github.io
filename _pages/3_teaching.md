@@ -33,4 +33,3 @@ _Teaching Assistant_ for:
 _Volunteer Teacher_
 
 - Designed interactive teaching plans and taught local pupils of grade 2 to 6 English and math.
-- Recorded teaching activities and wrote media articles.
