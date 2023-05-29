@@ -5,4 +5,4 @@ layout: single
 author_profile: true
 ---
 
-<embed src="https://zefangli.github.io/assets/files/CV-Zefang-Li-20230116.pdf" type="application/pdf" width="600" height="600"/>
+<embed src="https://zefangli.github.io/assets/files/CV-Zefang-Li-20230116.pdf" type="application/pdf" width="600" height="800"/>
