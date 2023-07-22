@@ -17,7 +17,7 @@ author_profile: true
 
 - [J0]. Xufei Suo\*, Tingkang Wang\*, **Zefang Li**, Yongxing Shen, "Elastic Solution for a Rotating Bi-material Ring with Thermal Mismatch", _Mechanics Research Communications_, Volume 113, 2021, 103695, ISSN 0093-6413, [https://doi.org/10.1016/j.mechrescom.2021.103695](https://doi.org/10.1016/j.mechrescom.2021.103695).
 
-- [C0]. Yiwen Song, Mason Zadan, Kushaan Misra, **Zefang Li**, Jingxian Wang, Carmel Majidi, Swarun Kumar, "Navigating Soft Robots through Wireless Heating," accpeted by ICRA 2023.
+- [C0]. Yiwen Song, Mason Zadan, Kushaan Misra, **Zefang Li**, Jingxian Wang, Carmel Majidi, Swarun Kumar, "Navigating Soft Robots through Wireless Heating," _2023 IEEE International Conference on Robotics and Automation (ICRA)_, pp. 2598-2605, IEEE, 2023.
 
 
 #### Area of Expertise
