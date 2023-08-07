@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Zefang Li"
   avatar : "/assets/imgs/ZefangLi_headshot2022.JPG"
-  bio    : "Incoming PhD student @JHU"
+  bio    : "PhD student @JHU"
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
