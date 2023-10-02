@@ -7,12 +7,12 @@ author_profile: true
 
 ### Awards
 
-- MechE MS Summer Research Fellowship, 2022
-- Outstanding Graduate of Shanghai (<5%), 2021
-- 2020 Outstanding Teaching Assistant Award, 2021
-- SJTU B-Class Undergraduate Scholarship for Academic Excellence (10%), 2020
+- The Joseph Meyerhoff Fellowship, JHU, 2023
+- MechE MS Summer Research Fellowship, CMU, 2022
+- Outstanding Graduate of Shanghai (<5%), SJTU, 2021
+- 2020 Outstanding Teaching Assistant Award, SJTU, 2021
+- SJTU B-Class Undergraduate Scholarship for Academic Excellence (10%), 2019 & 2020
 - SJTU Undergraduate Academic Progress Scholarship (5%), 2019
-- SJTU B-Class Undergraduate Scholarship for Academic Excellence (10%), 2019
 - UM-SJTU JI Volunteer Spirit Scholarship, 2018
 - First Prize in 30th Chinese Chemistry Olympiad (Preliminary contest), 2016
 
