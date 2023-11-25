@@ -5,6 +5,8 @@ layout: single
 author_profile: true
 ---
 
+"Weakness and ignorance are not barriers to survival, but arrogance is" -- Cixin Liu
+
 ### Awards
 
 - The Joseph Meyerhoff Fellowship, JHU, 2023
