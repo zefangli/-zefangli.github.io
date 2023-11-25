@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Zefang Li"
+  name   : "Zefang Li 李泽方"
   avatar : "/assets/imgs/ZefangLi_headshot2022.JPG"
   bio    : "PhD student @JHU"
   links:
